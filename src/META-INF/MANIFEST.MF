@@ -1,0 +1,1726 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+Class-Path: lib/AnimatedTransitions.jar lib/AppFramework.jar lib/swing
+ -worker.jar lib/swingx.jar lib/TimingFramework.jar lib/javaws.jar
+Created-By: 1.7.0_09-b05 (Oracle Corporation)
+Ant-Version: Apache Ant 1.8.3
+Main-Class: com.sun.swingset3.SwingSet3
+SplashScreen-Image: swingset3/resources/images/splash3.png
+
+Name: com/sun/swingset3/demos/spinner/MandelbrotControl$4.class
+SHA1-Digest: hNhy+z90k+8n04n0LLhBk4TNxYE=
+
+Name: com/sun/swingset3/demos/tabbedpane/TabbedPaneDemo.class
+SHA1-Digest: xWwqWBXDYDhmhH28pA+jMMTJt3Y=
+
+Name: com/sun/swingset3/demos/colorchooser/ColorChooserDemo$ColorSwatc
+ h.class
+SHA1-Digest: RIeinHmyFsbCHex6VwSttLpSjgA=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo.java
+SHA1-Digest: KAidCDWplZQPAaLoV86030fMFOU=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/tr.gif
+SHA1-Digest: d5PwNEQb4HcJSaHMLfZdUGY2nVI=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/bm.gif
+SHA1-Digest: 9rAo5Z9R4A5Qy8JM5lM1W5LFQ9s=
+
+Name: com/sun/swingset3/demos/tree/resources/tree.txt
+SHA1-Digest: G5jLuSz/b8Tvb6bdEQJGOALYa6g=
+
+Name: com/sun/swingset3/demos/combobox/ComboBoxDemo.class
+SHA1-Digest: ce7OgsPq1iyS9oJMT7d3Qps3nQ8=
+
+Name: com/sun/swingset3/demos/table/resources/bestpicture
+SHA1-Digest: qh53FcQyC3/blogsOtFJBcgJ3SQ=
+
+Name: com/sun/swingset3/demos/splitpane/SplitPaneDemo$MinimumSizeListe
+ ner.class
+SHA1-Digest: Sy3u3d+lRPUlmhFvYuraOqAB4eM=
+
+Name: com/sun/swingset3/DemoSelectorPanel.java
+SHA1-Digest: xVC/oGeeTfH6lNPBo5jOO24y/Lo=
+
+Name: com/sun/swingset3/codeview/SnippetNavigator$CenterLabelBorder.cl
+ ass
+SHA1-Digest: GH5Z87Y2IWClc+Tdt8TIELa+fW4=
+
+Name: com/sun/swingset3/demos/dialog/DialogDemo$1.class
+SHA1-Digest: nS7/tjg8FK+y3TaDKOpx7aTsRME=
+
+Name: com/sun/swingset3/codeview/SnippetHighlighter$LayeredHighlightIn
+ fo.class
+SHA1-Digest: recOeKCn0zzvt4p/dRmAI4HyP4Y=
+
+Name: com/sun/swingset3/demos/textfield/resources/images/TextFieldDemo
+ .gif
+SHA1-Digest: M4tSuXiKc7r7dzuGO0eL/+stbQM=
+
+Name: com/sun/swingset3/demos/frame/BusyGlass.java
+SHA1-Digest: ei8peNA6MPUzaXWa1F0uD02NX5U=
+
+Name: com/sun/swingset3/demos/textfield/TextFieldDemo.java
+SHA1-Digest: 0pFIY9oL0qpsgrOIVnXrF8XhJn8=
+
+Name: com/sun/swingset3/demos/frame/FrameDemo.java
+SHA1-Digest: F+rA2xCtHRNSY4d9wsKt67+irDo=
+
+Name: com/sun/swingset3/demos/button/resources/images/edit-find.png
+SHA1-Digest: HcA1ITEDxyBgFh04odK9YM1lg6g=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/ToggleButt
+ onDemo.gif
+SHA1-Digest: bQ/WQnFXbJGfQ1B3wK6GeJETUCA=
+
+Name: com/sun/swingset3/demos/progressbar/ProgressBarDemo$2.class
+SHA1-Digest: 6HGmUOdw6LGy7LoS5hf/Df1ZLw0=
+
+Name: com/sun/swingset3/demos/table/TableDemo$4.class
+SHA1-Digest: r/U9Pfpwh5cHUpl065P+oJ6NiWA=
+
+Name: com/sun/swingset3/demos/editorpane/book/editorpane/back.jpg
+SHA1-Digest: H65Om7/jzB9QXnQv+sOG+B6KDI0=
+
+Name: com/sun/swingset3/demos/gridbaglayout/GridBagLayoutDemo.class
+SHA1-Digest: xJrGaY1GrMEjarb07JnieG6/xKM=
+
+Name: com/sun/swingset3/demos/spinner/MandelbrotControl$1.class
+SHA1-Digest: oaIj93ewEM0uY5ABIlKKoyr9CAU=
+
+Name: com/sun/swingset3/demos/colorchooser/ColorChooserDemo$1$1.class
+SHA1-Digest: 8KTNDqZj6AjU3ppU/48JFeg5Y78=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/rbr.gif
+SHA1-Digest: zjdiLbB+YGNCVE84Dr3RebcnPhc=
+
+Name: com/sun/swingset3/demos/list/ListDemo$UpdateSuffixListAction.cla
+ ss
+SHA1-Digest: 2q4FObuEZxcSU79+0ZLqfvRPmPs=
+
+Name: com/sun/swingset3/codeview/CodeViewer$CodeVeneer.class
+SHA1-Digest: BiM6TbqFNA0UW7S9RrEVB8owL8k=
+
+Name: com/sun/swingset3/demos/internalframe/resources/images/bananas_s
+ mall.png
+SHA1-Digest: VWlFstxHijrael4EM2M+gKZaUlw=
+
+Name: com/sun/swingset3/demos/frame/FrameDemo.class
+SHA1-Digest: 8Fbr9Yn7mwNlPj9GoZH2yHjW7qY=
+
+Name: com/sun/swingset3/demos/textfield/JHistoryTextField.java
+SHA1-Digest: pH6o7bbG0zx2CBIU31VTBlgTNIU=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/tl.gif
+SHA1-Digest: pzgbkwshE9kZHTqGStHbJzcu4OI=
+
+Name: com/sun/swingset3/Demo.java
+SHA1-Digest: 2wpaNEjf7FNaxAgLMi2FLug3agI=
+
+Name: com/sun/swingset3/resources/images/splash.png
+SHA1-Digest: bLShCBP9TBHARjdgnivTRz351xg=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/tmdn.gif
+SHA1-Digest: qiDyxAjugr4yJS9qkVAhj+V7geY=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/bmdn.gif
+SHA1-Digest: ucaO3jB//QMRgnM39qoU6PkEYWQ=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator$SquareButton.cl
+ ass
+SHA1-Digest: 4bFSPy35OszKzGV5xK3Ekxd7EcE=
+
+Name: com/sun/swingset3/demos/editorpane/book/Octavo/ant.jpg
+SHA1-Digest: GiG4JNN8Hd2fJn9tgoASj7yRbug=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/joneyes.jpg
+SHA1-Digest: gH88mkSrae6LumpGms4r2azRajo=
+
+Name: com/sun/swingset3/DemoProperties.class
+SHA1-Digest: ksrAJ3Qq5FLupKuwYhs6VC7ImKE=
+
+Name: com/sun/swingset3/demos/spinner/MandelbrotControl$2.class
+SHA1-Digest: N1Cdp5asnrtUHDTTLUClmLlgpx4=
+
+Name: com/sun/swingset3/codeview/SnippetHighlighter.java
+SHA1-Digest: NolqgFlVUxlvU2x2I26ye+HfY/8=
+
+Name: com/sun/swingset3/demos/list/resources/images/ListDemo.gif
+SHA1-Digest: ryx4PJREU1njBo8GhnjvD1jnaSU=
+
+Name: com/sun/swingset3/demos/table/OscarTableModel.java
+SHA1-Digest: sPB4MUXQquqVNCHKGwUVbqpwQcM=
+
+Name: com/sun/swingset3/demos/spinner/JMandelbrot.java
+SHA1-Digest: OUqC3BONoi8p9iJt/GGLBjgi+gs=
+
+Name: com/sun/swingset3/demos/list/ListDemo.java
+SHA1-Digest: 058tDONhdZhpp2c4/5pqnGDXlFU=
+
+Name: com/sun/swingset3/resources/default.html
+SHA1-Digest: ovTZ0OG8QX8qBZTUVerul7yEaeA=
+
+Name: com/sun/swingset3/demos/spinner/MandelbrotControl.class
+SHA1-Digest: Gk6BCxyfLr8tbjv6StcNH9EElEQ=
+
+Name: com/sun/swingset3/demos/table/OscarCellRenderers$YearRenderer.cl
+ ass
+SHA1-Digest: KKPNfBijn+wN3UssUeX61Rl0GAY=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/cbr.gif
+SHA1-Digest: 4cSsCq5QPpwcQvbDBa/zUvtSmaY=
+
+Name: com/sun/swingset3/demos/togglebutton/LayoutControlPanel$1.class
+SHA1-Digest: 3gOEdUbgDU4jX1WvXCDscfjoY7M=
+
+Name: com/sun/swingset3/demos/table/HyperlinkCellRenderer.class
+SHA1-Digest: +F1J04abvE3C8xmZO1onM3dGUkQ=
+
+Name: com/sun/swingset3/demos/list/resources/images/green.gif
+SHA1-Digest: k0+D2H5on7RtwcM/5HUzqts3VIU=
+
+Name: com/sun/swingset3/demos/togglebutton/ToggleButtonDemo$3.class
+SHA1-Digest: sPCx0FteJiM6UOniL9pP1XCEnjw=
+
+Name: com/sun/swingset3/demos/textfield/JHistoryTextField$1.class
+SHA1-Digest: QMONrAsxvXs61RbxhD+2qoYuuyY=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/howardeyes.jpg
+SHA1-Digest: B/U78O7hkm6M1qEWD2v4ZwiaMHk=
+
+Name: com/sun/swingset3/demos/table/OscarCellRenderers$RowRenderer.cla
+ ss
+SHA1-Digest: vntU+vFzRqC7XMwUWTMOOT5wFY0=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/mldn.gif
+SHA1-Digest: aCfAIuUmzaC+tRuSsMqkLm5gR1s=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/ToggleButtonDemo.
+ properties
+SHA1-Digest: 137sosZ3KSQQZC74LCYvz5OWz70=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/georgeshair.jp
+ g
+SHA1-Digest: f9waVUp4+Xx8uMpy05rVx9PWQYA=
+
+Name: com/sun/swingset3/demos/textfield/JHistoryTextField$6.class
+SHA1-Digest: AjUSTpw2tc2HLjWZwtjjnBfLNIs=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator$Operator.class
+SHA1-Digest: ZDX/e7Oj58bSw17GnOFGmxWhZdE=
+
+Name: com/sun/swingset3/demos/optionpane/OptionPaneDemo$1.class
+SHA1-Digest: LOfKRD0AikNI5+/QAJt/DjR7PMo=
+
+Name: com/sun/swingset3/demos/spinner/JPaletteShower.class
+SHA1-Digest: +9ajS2JvGJTLD0QEl63i7oGdpJE=
+
+Name: com/sun/swingset3/demos/editorpane/book/editorpane/forward.jpg
+SHA1-Digest: 7TM4V0i8rxSCja9DqF57dDgdDd8=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator$CharButton.clas
+ s
+SHA1-Digest: CZX58ykoilllqK5/nPNDxRr0R/M=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/b1.gif
+SHA1-Digest: 7vxul7B1qZWu1FYsNE8mXO8FONQ=
+
+Name: com/sun/swingset3/demos/button/resources/images/redbutton_dark.p
+ ng
+SHA1-Digest: cbOTQ7BjeRNDLLYss459C9IujxU=
+
+Name: com/sun/swingset3/demos/gridbaglayout/GridBagLayoutDemo.java
+SHA1-Digest: KilhBTofbeClke++wR3009a585w=
+
+Name: com/sun/swingset3/demos/filechooser/resources/images/rotateright
+ .png
+SHA1-Digest: nOQsKf5qk+mlSsiuSWZIhQRPwrs=
+
+Name: com/sun/swingset3/demos/list/ListDemo$UpdatePrefixListAction.cla
+ ss
+SHA1-Digest: VOWNaimgjBPp4n33KkfG3OHGmEg=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/cbs.gif
+SHA1-Digest: +cP28iSX73DTHSnSKeHGasLB5uU=
+
+Name: com/sun/swingset3/demos/ResourceManager.class
+SHA1-Digest: o2J0HnV7hqIgnt3Wy7SPFwgcvZs=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/scotthair.jpg
+SHA1-Digest: octzbY/KgkKV+QuQh4BLAcj58Bw=
+
+Name: com/sun/swingset3/SwingSet3$DemoVisibilityListener.class
+SHA1-Digest: 8tAx0XZjhJb1BQ637Iqfkvi5c8c=
+
+Name: com/sun/swingset3/DemoSelectorPanel$ChiselBorder.class
+SHA1-Digest: MWyYBGNelkqDV3lzjYdcGFYxeSg=
+
+Name: com/sun/swingset3/DemoSelectorPanel$DemoButtonBorder.class
+SHA1-Digest: BehgnlnPCJAe7RtyFYhdtGNzzjk=
+
+Name: com/sun/swingset3/demos/button/ButtonDemo$2.class
+SHA1-Digest: R1qcreFl3hv+wGa0mmzpHTMRalM=
+
+Name: com/sun/swingset3/demos/optionpane/OptionPaneDemo$5.class
+SHA1-Digest: xG+8xmItNnMOlhez4Uq1j9eUJf0=
+
+Name: com/sun/swingset3/demos/list/resources/images/gray.gif
+SHA1-Digest: WExNehx3yElmPnBLKoEdKcfxpU8=
+
+Name: com/sun/swingset3/demos/tooltip/ToolTipDemo.class
+SHA1-Digest: t2a5PXmy1iA2/EbXHPNcfRpTSnE=
+
+Name: com/sun/swingset3/demos/editorpane/book/Octavo/crest.jpg
+SHA1-Digest: pEOPfwTYVyY8bbFf2Z259RE9X9M=
+
+Name: com/sun/swingset3/resources/images/swingset3_icon.png
+SHA1-Digest: gaHf+XO1fV0COWvagKW/8nmcqgM=
+
+Name: com/sun/swingset3/demos/table/resources/images/goldstar.png
+SHA1-Digest: iEuxpEtGic8eFJg5UugucTzjycI=
+
+Name: com/sun/swingset3/demos/list/resources/images/red.gif
+SHA1-Digest: gkvgb8cj0GCTNwDG8yeHhnjWdy8=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/jeffhair.jpg
+SHA1-Digest: S/0P9ckL/I9H1sp97WoIk+SmhXs=
+
+Name: com/sun/swingset3/codeview/CodeViewer$SnippetCellRenderer.class
+SHA1-Digest: 5UbJ8vCyFjWNGc9QmbE3J9yqaqA=
+
+Name: com/sun/swingset3/demos/frame/FrameDemo$1.class
+SHA1-Digest: 3XtSVx9CrSnoiNFgC6v9e84GiDo=
+
+Name: com/sun/swingset3/resources/images/about.jpg
+SHA1-Digest: HWhdA1pQyCYPNb6SgQCAM7eXAEk=
+
+Name: com/sun/swingset3/utilities/DefaultsDisplay$UIDefaultsTableModel
+ .class
+SHA1-Digest: 1cpxzvKo15CL2++B15fLBeZvjkg=
+
+Name: com/sun/swingset3/demos/table/TableDemo$ShowWinnersListener.clas
+ s
+SHA1-Digest: uoe3dKMcAWyexqA2eDXGtNY5KeA=
+
+Name: com/sun/swingset3/demos/tabbedpane/resources/images/matthew.gif
+SHA1-Digest: DzuRBvMfOd935GxPneaM82BAK30=
+
+Name: com/sun/swingset3/demos/table/IMDBLink.class
+SHA1-Digest: J1OVZAlIwIzr7/io9vE3iiuOBLI=
+
+Name: com/sun/swingset3/utilities/DefaultsDisplay$KeyRenderer.class
+SHA1-Digest: aQkK7S/gzxzS1waL7pU5Yph9KxE=
+
+Name: com/sun/swingset3/Demo$State.class
+SHA1-Digest: zCXUUU7+oaj3yISuRSmsTI5bvW0=
+
+Name: com/sun/swingset3/demos/internalframe/resources/images/InternalF
+ rameDemo.gif
+SHA1-Digest: uoWxtKvJRdz0Y5Wvv7e6ESNfQKQ=
+
+Name: com/sun/swingset3/demos/slider/SliderDemo.java
+SHA1-Digest: W00TYZaqbONxzbxpe9SfOpRzpbc=
+
+Name: com/sun/swingset3/codeview/CodeViewer$PreviousSnippetAction.clas
+ s
+SHA1-Digest: FtvWnQFsjkNHyeSpBoYMqW40tSM=
+
+Name: com/sun/swingset3/SwingSet3.class
+SHA1-Digest: quwalZ+xDhojtZnoWLih7u+fgjI=
+
+Name: com/sun/swingset3/demos/list/resources/images/cyan.gif
+SHA1-Digest: hd9afPVAESU4Bejoc4thOB1E9+o=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$1.class
+SHA1-Digest: nNuyqEAk4KKuCrMsJf98cEDSQvY=
+
+Name: com/sun/swingset3/demos/spinner/MandelbrotControl$CoordSpinner.c
+ lass
+SHA1-Digest: LtpVdhWDEamI85OafWr1NkpWOBw=
+
+Name: com/sun/swingset3/IntroPanel.java
+SHA1-Digest: g7KqGgwBCb+eqDSoeJkQwg6K20U=
+
+Name: com/sun/swingset3/demos/spinner/Palette.java
+SHA1-Digest: 0yPppg/krmcFCpMjKUygJIFp9tY=
+
+Name: com/sun/swingset3/demos/table/resources/images/TableDemo.gif
+SHA1-Digest: vKXT+WlMdylLZU/cH3AeO23g+/0=
+
+Name: com/sun/swingset3/demos/togglebutton/DirectionPanel.java
+SHA1-Digest: 92Bv4N+2ksbsGQtrAZMvf6Vn5Dw=
+
+Name: com/sun/swingset3/demos/JGridPanel$Layout.class
+SHA1-Digest: yc3wCiIHIh9OjtQ9x0aUMhF7Mqg=
+
+Name: com/sun/swingset3/demos/window/WindowDemo$ShowActionListener.cla
+ ss
+SHA1-Digest: agpl1nhODMzeOpKM5kze8WXut2g=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/rbp.gif
+SHA1-Digest: 0ByG06yUw9Ja+cRtRVZAy7mT1g0=
+
+Name: com/sun/swingset3/demos/splitpane/SplitPaneDemo.class
+SHA1-Digest: rZ7WbtnTzHd/NGS7sT6b8Np5w8Y=
+
+Name: com/sun/swingset3/demos/optionpane/OptionPaneDemo$3.class
+SHA1-Digest: 7t1sozub3bNLfKBLoaONuWraO74=
+
+Name: com/sun/swingset3/DemoSelectorPanel.class
+SHA1-Digest: sh4t2VFViSxkR/7oWheckBQJR4s=
+
+Name: com/sun/swingset3/codeview/CodeViewer.class
+SHA1-Digest: plM+tM/8VzBQ7RuHlrCnA+XSxQg=
+
+Name: com/sun/swingset3/SwingSet3$1.class
+SHA1-Digest: r3o4eyCfrr6Konee6Ddrc43qQU8=
+
+Name: com/sun/swingset3/demos/spinner/JMandelbrot$1.class
+SHA1-Digest: 9drjknxCMloLjU0Uf+dTYXKh3Fw=
+
+Name: com/sun/swingset3/demos/splitpane/SplitPaneDemo$3.class
+SHA1-Digest: C7Yv64HHEb5e+heYqepIE8tXe7I=
+
+Name: com/sun/swingset3/codeview/SnippetHighlighter.class
+SHA1-Digest: VxwncK6v2wJn4SSoE1h0vE4mBj8=
+
+Name: com/sun/swingset3/utilities/ArrowIcon.java
+SHA1-Digest: 9cNTGYJzAaSVsqfSTvVcxfdd4T0=
+
+Name: org/jdesktop/swingx/JXPanel.java
+SHA1-Digest: U6+4CgrI0YrDsIN7kKvqtWSuDDc=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/laramouth.jpg
+SHA1-Digest: j2S7aFS2lLyjReyOCzBG9piAkc0=
+
+Name: com/sun/swingset3/codeview/Snippet.java
+SHA1-Digest: HaNmj4ptZGmaassISQ4HmCw8p3s=
+
+Name: com/sun/swingset3/demos/table/TableDemo$2.class
+SHA1-Digest: tYacFtmz3xqYAWzuCdh4PbbVdNY=
+
+Name: com/sun/swingset3/demos/spinner/JMandelbrot$MandelbrotCalculator
+ .class
+SHA1-Digest: GCa4XJCX6mKozjYh3b7T6GxbTlo=
+
+Name: com/sun/swingset3/demos/list/ListDemo$3.class
+SHA1-Digest: O/05Q+sRpCKPGh0S1PMg9Db/+LQ=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/lisaeyes.jpg
+SHA1-Digest: Zif5u1W/qljAuJrOE8cLvOMKGGo=
+
+Name: com/sun/swingset3/demos/editorpane/book/Octavo/COPYRIGHT
+SHA1-Digest: I5p18R/3bRUkL/9sJj2QO0ydtx8=
+
+Name: com/sun/swingset3/demos/frame/FrameDemo$BusyChangeListener.class
+SHA1-Digest: z4Un+Eo9j+MOoRwtR3XQ7lP9U40=
+
+Name: com/sun/swingset3/demos/table/OscarCandidate.java
+SHA1-Digest: HJOUe9ktc6iUAaHpUE2k5/hYa88=
+
+Name: com/sun/swingset3/demos/spinner/PaletteChooser$1.class
+SHA1-Digest: plRwLjVSM1IsdhGqSZp4QCaYMTk=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator$5.class
+SHA1-Digest: SQ84o3+RUP8KBpJcxs8N0BKkpUA=
+
+Name: com/sun/swingset3/demos/button/ButtonDemo.java
+SHA1-Digest: N1p1ArTzKs5GAqeUF33JPJsCvKs=
+
+Name: com/sun/swingset3/demos/filechooser/resources/images/FileChooser
+ Demo.gif
+SHA1-Digest: XqGpeGe7s46pCJYy/sSZzCdUk44=
+
+Name: com/sun/swingset3/codeview/SnippetMap.java
+SHA1-Digest: to48dowptPtXAWKDMAWk1Ju7h5Q=
+
+Name: com/sun/swingset3/demos/colorchooser/BezierAnimationPanel.class
+SHA1-Digest: q32yD8Cv1inG4SgWRfhQrawc5qk=
+
+Name: com/sun/swingset3/demos/colorchooser/ColorChooserDemo$1.class
+SHA1-Digest: RBrU8j+kEaERRFSYyJ3E0N8MspY=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/howardhair.jpg
+SHA1-Digest: Ag58G3G07d5sMQByau0MgCgEycc=
+
+Name: com/sun/swingset3/demos/frame/FrameDemo$ShowActionListener.class
+SHA1-Digest: rGW2MGr9fXFOeK535ubVQBf1fKU=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/hanshair.jpg
+SHA1-Digest: N70/T6gsvs0F+HS5tHAf1LjgYVU=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/laraeyes.jpg
+SHA1-Digest: ekFSe1gLR2sNljVdRL343bFmxv4=
+
+Name: com/sun/swingset3/demos/button/resources/images/redbutton.png
+SHA1-Digest: sIO9cC+OAbBg/dy5/IkXL5CJ98o=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/trdn.gif
+SHA1-Digest: xg21epjfxvoiN4076htxzbrZzO4=
+
+Name: com/sun/swingset3/demos/tabbedpane/resources/images/camille.jpg
+SHA1-Digest: jHqcM+8fXlaD3cuONmGOsPfYGSk=
+
+Name: com/sun/swingset3/utilities/RoundedPanel.java
+SHA1-Digest: 8ryUaNbh73gYiyeyRvdv6SG823M=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/cbrs.gif
+SHA1-Digest: 5TlZivsD3V/fsldu4yj4PxRWzF4=
+
+Name: com/sun/swingset3/utilities/HTMLPanel$ComponentEditorKit.class
+SHA1-Digest: ukhLFbcdWUG06+Ru9dR1FItYJ8I=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$8.class
+SHA1-Digest: VYT68CdGTDVZGeNOjtlIMe6jPyc=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/philipmouth.jp
+ g
+SHA1-Digest: EeVx2WqKydm3U1qTjWBlB3WV4sE=
+
+Name: com/sun/swingset3/demos/togglebutton/LayoutControlPanel.java
+SHA1-Digest: CMgMX2m+TKMpv1lloPCcxOibxH0=
+
+Name: com/sun/swingset3/demos/internalframe/resources/images/package_s
+ mall.png
+SHA1-Digest: CLmTAYIBwFVtE41cYH6KmQOujpE=
+
+Name: com/sun/swingset3/demos/editorpane/book/Octavo/micro.jpg
+SHA1-Digest: yo7vxJRFTSTk3yW9qbMFn/Jl9l0=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/larryeyes.jpg
+SHA1-Digest: aMDT5d20UoG+hjC5xDO+nEFG6aM=
+
+Name: com/sun/swingset3/demos/button/resources/images/document-print.p
+ ng
+SHA1-Digest: B0Q49aWZBEQixlBtppvudeivQqw=
+
+Name: com/sun/swingset3/utilities/DefaultsDisplay.java
+SHA1-Digest: dPTAQMcwUaq3xt/WhO1921JR+to=
+
+Name: com/sun/swingset3/codeview/CodeStyler.java
+SHA1-Digest: fY0CZHfW2Um4P07qRK0/ILVgop0=
+
+Name: com/sun/swingset3/demos/window/WindowDemo.java
+SHA1-Digest: j9gW360MzEtFHNphj6qYTbIHpMQ=
+
+Name: com/sun/swingset3/demos/editorpane/book/king.html
+SHA1-Digest: neHtRQODxlqvCIqpEAT9P4UATSQ=
+
+Name: com/sun/swingset3/demos/optionpane/OptionPaneDemo.class
+SHA1-Digest: 8DxcGTJifrbETSLLWxyzOJhX5aI=
+
+Name: com/sun/swingset3/demos/editorpane/resources/EditorPaneDemo.prop
+ erties
+SHA1-Digest: kSrfCbHPhNAUPQnXuIP+fJzvBVU=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/larrymouth.jpg
+SHA1-Digest: jsdG4u3NGjhBHxkH/3Z56p/xFfI=
+
+Name: com/sun/swingset3/demos/frame/BusyGlass.class
+SHA1-Digest: E0YfcgWW7x8y7e3HjZPPT6BhA8Y=
+
+Name: com/sun/swingset3/demos/colorchooser/ColorChooserDemo.class
+SHA1-Digest: 94XPWyDVSDEYaZLelbr3TUI6apQ=
+
+Name: com/sun/swingset3/demos/editorpane/book/title.html
+SHA1-Digest: EZYwW6RUMkAYwhk8ylNG3R4M1zY=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$FilePreview.
+ class
+SHA1-Digest: aZO/570WeW/7L/p8kwj7rmhnR+o=
+
+Name: com/sun/swingset3/SwingSet3$EditPropertiesAction.class
+SHA1-Digest: Fd9xQftLwosPjrvLstjy+f2kSVk=
+
+Name: com/sun/swingset3/demos/textfield/TextFieldDemo$2.class
+SHA1-Digest: 33PDRRGywSwtAiSHhFyaMeKoflY=
+
+Name: com/sun/swingset3/demos/optionpane/OptionPaneDemo$4.class
+SHA1-Digest: aczDdKBYiY/O+sQ2S/A93nUzcgU=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator$3.class
+SHA1-Digest: 2fcqM4urLsjUBrAMouy8Geb7n3M=
+
+Name: com/sun/swingset3/demos/togglebutton/LayoutControlPanel$TextPosi
+ tionListener.class
+SHA1-Digest: QZz7kxsCHqWP0jbAGq2LmAsNQVU=
+
+Name: com/sun/swingset3/utilities/HTMLPanel.java
+SHA1-Digest: I2PM0vs3fADwNzqsbV8s96RcRHQ=
+
+Name: com/sun/swingset3/demos/internalframe/resources/images/package.p
+ ng
+SHA1-Digest: 8p/nEMfOXxnaSmkxTWRQrhXOL1Y=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/rbs.gif
+SHA1-Digest: 2W6vXDurFaxqcKmd5U8GOsb1sK4=
+
+Name: com/sun/swingset3/demos/internalframe/resources/InternalFrameDem
+ o.properties
+SHA1-Digest: EauJ6YfJUXzo57bWdIF4pJnXQD8=
+
+Name: com/sun/swingset3/demos/textfield/TextFieldDemo$1.class
+SHA1-Digest: DhXUgwlKvR6A1faAra8O9V9VJ5Q=
+
+Name: com/sun/swingset3/demos/table/resources/TableDemo.properties
+SHA1-Digest: 202kQ8x8/OqXNHUEpHv32qBKzMI=
+
+Name: com/sun/swingset3/demos/optionpane/OptionPaneDemo$7.class
+SHA1-Digest: QIGDCJ4rtV0ZqWMLipGjzypvMz4=
+
+Name: org/jdesktop/swingx/JXPanel.class
+SHA1-Digest: WotU3Rctz7kT0PXOwkNNcKj4/aw=
+
+Name: com/sun/swingset3/codeview/CodeViewer$NextSnippetAction.class
+SHA1-Digest: 3rIVHu9lZzOTH3VVEO/8x9vETzE=
+
+Name: com/sun/swingset3/demos/internalframe/InternalFrameDemo$ImageScr
+ oller.class
+SHA1-Digest: Rba6GBiDEZja/51JwMQKcbuyYfs=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator$OperatorButton$
+ 1.class
+SHA1-Digest: SvGyMPLv/5XQx1eR0rdQTfNDOWc=
+
+Name: com/sun/swingset3/demos/combobox/resources/ComboBoxDemo.properti
+ es
+SHA1-Digest: Qr51YQCsrxpgRrje534cZBL/4kM=
+
+Name: com/sun/swingset3/utilities/GradientPanel.java
+SHA1-Digest: PKs7QZpplJXTfuRwHpyBrbgi8O4=
+
+Name: com/sun/swingset3/demos/table/TableDemo$SearchFilterListener.cla
+ ss
+SHA1-Digest: Q48KDf8uamGBaN2asnc2zTjoa50=
+
+Name: com/sun/swingset3/demos/combobox/ComboBoxDemo$Face.class
+SHA1-Digest: wP/RrkTTwEfRxtC9s2ylzdy+aBY=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator$2.class
+SHA1-Digest: 3pQvxncBBDsMxd7ROc288iYQhIg=
+
+Name: com/sun/swingset3/demos/window/WindowDemo$1.class
+SHA1-Digest: Ce/SKNW+LmnvoO2GEzU62u6KR50=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/georgesmouth.j
+ pg
+SHA1-Digest: ZyDvlau3UNYXVlbW0pz/T4WlKbA=
+
+Name: com/sun/swingset3/codeview/CodeViewer$1.class
+SHA1-Digest: NdVAain6bzgMuVedCcrDzxpMVS8=
+
+Name: com/sun/swingset3/SwingSet3.java
+SHA1-Digest: zyA4Ft/2BfdMa3A++sw4ehKjhrk=
+
+Name: com/sun/swingset3/demos/splitpane/SplitPaneDemo$OrientationListe
+ ner.class
+SHA1-Digest: LDNswXejd+kGwWV2cQb8pIx9Rx4=
+
+Name: com/sun/swingset3/demos/list/Permuter.class
+SHA1-Digest: 7FD45b+SdrYfeJ56t03x0LIHVMI=
+
+Name: com/sun/swingset3/demos/scrollpane/resources/images/crayons.jpg
+SHA1-Digest: KU6v6caWXK80LxYrkBpfj5t7pLg=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/jameshair.jpg
+SHA1-Digest: yIsGZIbMkuL8rfqRPzvkBL8tnG4=
+
+Name: com/sun/swingset3/demos/tooltip/resources/ToolTipDemo.properties
+SHA1-Digest: Mym2qXzjRQZ7aE+Ar391peEiP+Q=
+
+Name: com/sun/swingset3/demos/optionpane/OptionPaneDemo.java
+SHA1-Digest: MZkw/NdR0DxG0UHUXKrwGQg1ug8=
+
+Name: com/sun/swingset3/demos/spinner/PaletteChooser.class
+SHA1-Digest: ry31WxKef3Xgt26YwLJk5g3LDQ0=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/lisamouth.jpg
+SHA1-Digest: bb26LGiOyeYsIVUvFMPxlqSqdCE=
+
+Name: com/sun/swingset3/codeview/CodeViewer$FirstSnippetAction.class
+SHA1-Digest: 5Dan5fo5Z/pSFcZn4GYcybK7SOQ=
+
+Name: com/sun/swingset3/demos/table/OscarDataParser.java
+SHA1-Digest: Bnx98RDpcL781lNXErtfbhOvlxI=
+
+Name: com/sun/swingset3/demos/internalframe/resources/images/globe.png
+SHA1-Digest: SG7gUcHGZBPCRbHRWWWM3yzg5Yc=
+
+Name: com/sun/swingset3/demos/editorpane/resources/images/EditorPaneDe
+ mo.gif
+SHA1-Digest: PnyGdIxqTpDFGt/kLvBbVN+7IsA=
+
+Name: com/sun/swingset3/demos/tooltip/resources/images/ToolTipDemo.gif
+SHA1-Digest: t2yiGmc2airdj96/zYfbBRQ/rM4=
+
+Name: com/sun/swingset3/demos/button/resources/images/ButtonDemo.gif
+SHA1-Digest: 1jbNKgeXiDrYPYrNR/eC5cvMm/U=
+
+Name: com/sun/swingset3/demos/list/ListDemo$1.class
+SHA1-Digest: 8TFVN5JI2Kpo/txjaTgra/mA0mo=
+
+Name: com/sun/swingset3/demos/spinner/resources/SpinnerDemo.properties
+SHA1-Digest: 0bhQvoatLetWlEcJO3m60TkXaJU=
+
+Name: com/sun/swingset3/demos/tree/resources/images/TreeDemo.gif
+SHA1-Digest: DGjKFc8Vs5JwIOawKNp+DSUOzY0=
+
+Name: com/sun/swingset3/demos/tooltip/ToolTipDemo$Toolbox.class
+SHA1-Digest: 8jG/0ZSmXNjQCZdR2udPtRBJxPE=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$State.class
+SHA1-Digest: DABgQp05Ov8Z7D6f3sB98AQwTzI=
+
+Name: com/sun/swingset3/demos/table/OscarCellRenderers$NomineeRenderer
+ .class
+SHA1-Digest: Kw2rWCE02C20JoIiX8Jwg5F1zi0=
+
+Name: com/sun/swingset3/demos/button/resources/ButtonDemo.html
+SHA1-Digest: sJltTWiG2qaMMk1zjUhs+aibu38=
+
+Name: com/sun/swingset3/utilities/AnimatingSplitPane.java
+SHA1-Digest: F3Njt+TAcQxKJPy59PLrvo//Ezc=
+
+Name: com/sun/swingset3/demos/filechooser/resources/images/rotateleft.
+ png
+SHA1-Digest: l/BVvdwZRhkyMVDKdLrLMDdosig=
+
+Name: com/sun/swingset3/demos/editorpane/EditorPaneDemo.java
+SHA1-Digest: QiGm7PDfQKFEDe7e753EzPlFBTg=
+
+Name: com/sun/swingset3/utilities/HTMLPanel.class
+SHA1-Digest: 1ldYDpkEV1ePjvqUblErsz6Q+tM=
+
+Name: com/sun/swingset3/demos/table/TableDemo$OscarDataLoader.class
+SHA1-Digest: PSKDTy2cDHoK5N/7pYWMoxU6zOU=
+
+Name: com/sun/swingset3/demos/editorpane/book/ant.html
+SHA1-Digest: CTDDM+cIeDbUjKIwz8S2WmiKdkQ=
+
+Name: com/sun/swingset3/demos/internalframe/InternalFrameDemo.class
+SHA1-Digest: MroaU3w6Juel7GiUMTYhP8tIzhM=
+
+Name: com/sun/swingset3/demos/textfield/TextFieldDemo.class
+SHA1-Digest: kzKJOhlMZx9/TnUhzgJgEXCpAr4=
+
+Name: com/sun/swingset3/demos/table/Link.class
+SHA1-Digest: AN/fjaxics7rlBaUAc38dIeAeDg=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$7.class
+SHA1-Digest: oU4WV3BkdmvPIKIDo00VIN8JQHQ=
+
+Name: com/sun/swingset3/demos/combobox/ComboBoxDemo$1.class
+SHA1-Digest: LA3D2WUIL5TfUn0c7FyvAwnP0qM=
+
+Name: com/sun/swingset3/demos/internalframe/resources/images/bananas.p
+ ng
+SHA1-Digest: xfvOhm9/tY7vi3WKkD+H4BZCx1I=
+
+Name: com/sun/swingset3/codeview/CodeViewer$SnippetAction.class
+SHA1-Digest: MhgeMbcn47hyQdK7/Qx2WVFrD0o=
+
+Name: com/sun/swingset3/utilities/DefaultsDisplay$ValueRenderer.class
+SHA1-Digest: 6BKdjxndAJjbUbD7et+MHTvjUS0=
+
+Name: com/sun/swingset3/demos/tree/TreeDemo$1.class
+SHA1-Digest: V+RVHerj9wksPdF8Eewnl4paIvU=
+
+Name: com/sun/swingset3/demos/progressbar/ProgressBarDemo$1.class
+SHA1-Digest: 25eA9PP+Ysmgy91/FK6eMW5Oi7I=
+
+Name: com/sun/swingset3/demos/spinner/JSpinnerPanel.java
+SHA1-Digest: 7q3/6mRKYOQzQ+WMdzYP2XKV88A=
+
+Name: com/sun/swingset3/demos/JHyperlink.class
+SHA1-Digest: T1bLHE/k5YSG161hLSpHDIWPqIk=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/hansmouth.jpg
+SHA1-Digest: irCnaJphLBS6Rv/cqf3hRHH6S+w=
+
+Name: com/sun/swingset3/demos/ResourceManager.java
+SHA1-Digest: CgDdRjItJOIUhoIz1hjxLaglMeM=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$3.class
+SHA1-Digest: BszSVDkN8LQ4FX1aVE7BOLtmSsM=
+
+Name: com/sun/swingset3/demos/togglebutton/DirectionPanel$DirectionBut
+ ton.class
+SHA1-Digest: fwYlwvbHqA3FMfNUbZgaP24FYbM=
+
+Name: com/sun/swingset3/demos/editorpane/book/Octavo/bug.jpg
+SHA1-Digest: nFxRCx5g53GGhdLmO0F4G8ATc5s=
+
+Name: com/sun/swingset3/DemoPanel$LoadedDemoPanel.class
+SHA1-Digest: JAIF6oHkxfP5izk3rydqiCZAQ3k=
+
+Name: com/sun/swingset3/demos/colorchooser/ColorChooserDemo.java
+SHA1-Digest: 4hmOYfm32zragM4FV66CnbriWK4=
+
+Name: com/sun/swingset3/codeview/SnippetNavigator$NavButton.class
+SHA1-Digest: 7QNG+l9+UrbeLspLVRHG/ST/olU=
+
+Name: com/sun/swingset3/demos/scrollpane/resources/images/ScrollPaneDe
+ mo.gif
+SHA1-Digest: Pe6crV425dxQQ1qjdC5W241jHAs=
+
+Name: com/sun/swingset3/DemoPanel.java
+SHA1-Digest: /DdKq2r/W9eeCVQDybHfwtGd7UA=
+
+Name: com/sun/swingset3/demos/filechooser/resources/FileChooserDemo.pr
+ operties
+SHA1-Digest: Lg9NgRoYtwIP3tIhrf4mmXTnXfc=
+
+Name: com/sun/swingset3/demos/tabbedpane/resources/images/blake.gif
+SHA1-Digest: JsNFMyAocdO9Mjk1sJno8uurl2E=
+
+Name: com/sun/swingset3/demos/window/resources/WindowDemo.html
+SHA1-Digest: qEY+pK5t7+vO7/5aR0Hc2q8HM9s=
+
+Name: com/sun/swingset3/resources/images/home.png
+SHA1-Digest: 4+/pWnJI52BCDibTbv/t1p/4PQg=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/br.gif
+SHA1-Digest: 60jhgUW/iHk3L2g8DJkk0VBA7RQ=
+
+Name: com/sun/swingset3/demos/textfield/JHistoryTextField$3.class
+SHA1-Digest: 0Rp3LH2QC/17H06ZV2IxvRn5q0I=
+
+Name: com/sun/swingset3/demos/list/Permuter.java
+SHA1-Digest: CCbi61LdlppYKz7ibyXthX/4bd0=
+
+Name: com/sun/swingset3/demos/slider/SliderDemo.class
+SHA1-Digest: GqPgg0Rn9z3e6vApmWiZsKH0cDE=
+
+Name: com/sun/swingset3/demos/list/ListDemo$2.class
+SHA1-Digest: IM6nMQ0ivwT8hwXh7OlFzto9Sb4=
+
+Name: com/sun/swingset3/resources/images/home_notext.png
+SHA1-Digest: DmqPrF6wM+6kPfspyZS9r9xxLUo=
+
+Name: com/sun/swingset3/demos/table/TableDemo$1.class
+SHA1-Digest: 2JNVy0N3vHtwavGMaq27Y11ojpQ=
+
+Name: com/sun/swingset3/demos/table/TableDemo$OscarDataLoader$1.class
+SHA1-Digest: Z5t4nKkfAri9U9lWzAdn6YRGBCk=
+
+Name: com/sun/swingset3/codeview/SnippetHighlighter$SnippetHighlightPa
+ inter.class
+SHA1-Digest: ODZ030iSI2jH6nyllmr2GXFARnc=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$9.class
+SHA1-Digest: wHWmQki/BYuHMfr04KVwsC2iyFg=
+
+Name: com/sun/swingset3/SwingSet3$DemoSelectionListener.class
+SHA1-Digest: 8w7Mb3Bjv7FUWNkyuPTBzaM+Z3o=
+
+Name: com/sun/swingset3/demos/button/resources/images/redbutton_glow.p
+ ng
+SHA1-Digest: r1x7fCTKHZrPy4aOlb5UJl0EaGI=
+
+Name: com/sun/swingset3/demos/Stacker.class
+SHA1-Digest: F1tHJU4+gvmMXqEuteQhhaqJfRM=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/philiphair.jpg
+SHA1-Digest: r4I+8ZWovwzMmVZ6mWrjWDE7JcQ=
+
+Name: com/sun/swingset3/demos/togglebutton/ToggleButtonDemo.class
+SHA1-Digest: OAs88qlrjNDWxt000gygfsChpPE=
+
+Name: com/sun/swingset3/demos/slider/SliderDemo$SliderListener.class
+SHA1-Digest: RQFppr6RdBJdTyst0CU2/VvU20A=
+
+Name: com/sun/swingset3/codeview/Snippet.class
+SHA1-Digest: PpJxFJFG3QpnJ/s76CwcvoOhJl8=
+
+Name: com/sun/swingset3/demos/list/resources/ListDemo.properties
+SHA1-Digest: Y8kFOOwe0ymkTUUnXWjyWeFwq4o=
+
+Name: com/sun/swingset3/DemoSelectorPanel$DemoButton.class
+SHA1-Digest: HlGucpInxRVddsyHAKTkm20MIlU=
+
+Name: com/sun/swingset3/demos/spinner/JMandelbrot$2.class
+SHA1-Digest: PBSj80AuJZRiXFoSNSrowZE5Gro=
+
+Name: com/sun/swingset3/utilities/HTMLPanel$ComponentCreationListener.
+ class
+SHA1-Digest: VcyzIM0OTzFHaPMnr+xb7g6roEg=
+
+Name: com/sun/swingset3/utilities/CollapsiblePanel$CollapseListener.cl
+ ass
+SHA1-Digest: XxMe24w1FpDG1aYVYt3bz/IGQGA=
+
+Name: com/sun/swingset3/SwingSet3$DemoVisibilityListener$1.class
+SHA1-Digest: mrBWx41HWfqneE/VeuuyvzrU5tk=
+
+Name: com/sun/swingset3/demos/progressbar/resources/ProgressBarDemo.pr
+ operties
+SHA1-Digest: 0fr2Tc5YbOVQuSOF5MCeWrmJ3dc=
+
+Name: com/sun/swingset3/demos/scrollpane/resources/ScrollPaneDemo.prop
+ erties
+SHA1-Digest: ligWBPoXGK+MIndvxGc9itO5uZ8=
+
+Name: com/sun/swingset3/utilities/Utilities.java
+SHA1-Digest: xj8pVrMHgzmfDoS5g1Nv28XWYGo=
+
+Name: com/sun/swingset3/demos/progressbar/resources/images/ProgressBar
+ Demo.gif
+SHA1-Digest: 9C0d0Xs2xIaFIjLLw+sgcNUEvhk=
+
+Name: com/sun/swingset3/codeview/SnippetHighlighter$HighlightInfo.clas
+ s
+SHA1-Digest: +3Tm2BwbTmb+VNhrvCG17Ye8xMc=
+
+Name: com/sun/swingset3/AboutBox.java
+SHA1-Digest: /hHFB4Auh5bKU7Zkuahr3BVKMsw=
+
+Name: com/sun/swingset3/utilities/DefaultsDisplay$2.class
+SHA1-Digest: CZHZjXH9qd72qt3NSqa9dWUyBdo=
+
+Name: com/sun/swingset3/demos/list/resources/images/blue.gif
+SHA1-Digest: lnx6SDbdvwJY9nfVV4mCQC4WPkI=
+
+Name: com/sun/swingset3/demos/splitpane/SplitPaneDemo.java
+SHA1-Digest: j+gV16dvOFfcZ+41TRMuKV5JmhE=
+
+Name: com/sun/swingset3/demos/textfield/JHistoryTextField$5.class
+SHA1-Digest: 1OOCm286CjdtbhkBch0/Wqgdzb4=
+
+Name: com/sun/swingset3/codeview/CodeViewer$Stacker.class
+SHA1-Digest: MTmo50ci/laXZ3j0DrsFPD+eac4=
+
+Name: com/sun/swingset3/demos/textfield/JHistoryTextField$4.class
+SHA1-Digest: nEzym56Ottjq93r9R3B08UH7TLc=
+
+Name: com/sun/swingset3/demos/togglebutton/DirectionPanel.class
+SHA1-Digest: wgoaE+DxpUNPQLKjas+EbsmGZEA=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/larryhair.jpg
+SHA1-Digest: 2LFvM859LJMZ1FE4N2pvcpgMELo=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/jeffeyes.jpg
+SHA1-Digest: v5NVy+ppWorQ9LIcbls+R9h4LJ8=
+
+Name: com/sun/swingset3/demos/dialog/resources/DialogDemo.html
+SHA1-Digest: BZEzC0ja1w3camroqZVtw6b/sLU=
+
+Name: com/sun/swingset3/demos/splitpane/resources/images/day.jpg
+SHA1-Digest: 9Dh2Xt7FteBt2XWwkP0Pu6zrHbs=
+
+Name: com/sun/swingset3/utilities/HTMLPanel$ComponentView$1.class
+SHA1-Digest: 5UFv4HvphAOgvQg3P/XR/ow9YyM=
+
+Name: com/sun/swingset3/resources/images/ss3_splash_nointro.png
+SHA1-Digest: RwaiJ9/QvR8uO1L99L4jwqTexO4=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator$State.class
+SHA1-Digest: LZ8EVlJIARzRGd/FiBegFW/AynE=
+
+Name: com/sun/swingset3/demos/internalframe/resources/images/globe_sma
+ ll.png
+SHA1-Digest: OT1bRIiqy7Y/dljE2Vw9NgK3Hww=
+
+Name: com/sun/swingset3/codeview/CodeViewer$SourceProcessor.class
+SHA1-Digest: /Hus4ARfF4I8e+JeeWf7K3eETac=
+
+Name: com/sun/swingset3/resources/SwingSet3.properties
+SHA1-Digest: dDBSoyYxKrzpV7Q3wKQp99gceiI=
+
+Name: com/sun/swingset3/demos/spinner/JMandelbrot.class
+SHA1-Digest: gyyTvGMSWsEn6ZXb36fCzGe9pCE=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/b2r.gif
+SHA1-Digest: dB8yMmsH5Cz8QWT91pSCxyVsK0M=
+
+Name: com/sun/swingset3/demos/slider/resources/SliderDemo.properties
+SHA1-Digest: T5hzX/oE5ZL9+P4Z4VZ3usr1+84=
+
+Name: com/sun/swingset3/demos/optionpane/OptionPaneDemo$6.class
+SHA1-Digest: ksxzajXJ0Nw5qHu352gbQBlEC/k=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/rbrs.gif
+SHA1-Digest: iFatWNXtAlOytELFS3eC8ytbeZI=
+
+Name: com/sun/swingset3/demos/tooltip/ToolTipDemo.java
+SHA1-Digest: 3M4m5Xu9riUi4jPHiO+dSrIvTqI=
+
+Name: com/sun/swingset3/demos/splitpane/SplitPaneDemo$2.class
+SHA1-Digest: WbxgU9D8nRr/vLVBN6aKr42ch50=
+
+Name: com/sun/swingset3/codeview/CodeStyler.class
+SHA1-Digest: N0Y7QsV1LfQSN8KKbvop/kFPUr0=
+
+Name: com/sun/swingset3/utilities/DefaultsDisplay$1.class
+SHA1-Digest: JM35FAjMoprN73RBDojyetboHbM=
+
+Name: com/sun/swingset3/codeview/CodeViewer$CodeFileInfo.class
+SHA1-Digest: +LIpS8p7ABn4T92GxV+MRGnVKOw=
+
+Name: com/sun/swingset3/utilities/CollapsiblePanel.java
+SHA1-Digest: 3/nP3m8TtQ2FGiAMAaHm/97Ck48=
+
+Name: com/sun/swingset3/utilities/CollapsiblePanel$Orientation.class
+SHA1-Digest: Ju3oL5mqxSvuIUeE7y3UWGAqXZE=
+
+Name: com/sun/swingset3/demos/DemoUtilities.java
+SHA1-Digest: SXiq4IjybkquukT2P85vaXvlfR4=
+
+Name: com/sun/swingset3/demos/button/resources/images/earth_day.gif
+SHA1-Digest: WklAiuhKQluww2aXiFGhYAHp50E=
+
+Name: com/sun/swingset3/demos/dialog/DialogDemo$ShowActionListener.cla
+ ss
+SHA1-Digest: Q9O4KvO5p9iea8/no/FK+qShBWg=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/jonhair.jpg
+SHA1-Digest: IQRMZSGfDfAwALGBxg6bT0pwbbQ=
+
+Name: com/sun/swingset3/demos/splitpane/resources/images/SplitPaneDemo
+ .gif
+SHA1-Digest: VAGySpwKqajdmmX/Ak0uGLbrkd4=
+
+Name: com/sun/swingset3/demos/button/ButtonDemo$1.class
+SHA1-Digest: G1sEsZzZdCvHKohm3kWYTQjJHDw=
+
+Name: com/sun/swingset3/utilities/DefaultsDisplay$3.class
+SHA1-Digest: oVvKkaUqmnIHHsotO10m+yR0g9A=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/tldn.gif
+SHA1-Digest: fDqhn8FRlSfgGW5cTDwYzLOycYE=
+
+Name: com/sun/swingset3/demos/scrollpane/ScrollPaneDemo.java
+SHA1-Digest: lKxuyV3doygEUOjuU03gWU8HYrs=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/cb.gif
+SHA1-Digest: xRh/rIFdZo6mTmAY6jwBA/SRm4c=
+
+Name: com/sun/swingset3/demos/filechooser/resources/images/apply.png
+SHA1-Digest: g9zKwQG4NVgLqMiNooUuI77U6KE=
+
+Name: com/sun/swingset3/demos/scrollpane/ScrollPaneDemo.class
+SHA1-Digest: DBGDPfLXx8RMtgeOFPv7tBxxzwQ=
+
+Name: com/sun/swingset3/demos/tabbedpane/resources/images/TabbedPaneDe
+ mo.gif
+SHA1-Digest: zxPIRRiH46IkBLdx04iOmiKFVaY=
+
+Name: com/sun/swingset3/demos/spinner/MandelbrotControl.java
+SHA1-Digest: l1UwT4nlc9NSgUo8lSA/HfCm+4A=
+
+Name: com/sun/swingset3/utilities/GradientPanel.class
+SHA1-Digest: /WHRaM/kRqwGyyT/n2/VLa012t0=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo.class
+SHA1-Digest: N+IUEIBAHQ0YRVqam2NDojXAZ9A=
+
+Name: com/sun/swingset3/demos/splitpane/resources/images/night.jpg
+SHA1-Digest: JsbL0TLHE3DqwCQSOpwddRu1zAA=
+
+Name: com/sun/swingset3/utilities/HTMLPanel$HyperlinkHandler.class
+SHA1-Digest: zBSJLylzT2kyZVr8pELfr4OqRpM=
+
+Name: com/sun/swingset3/demos/editorpane/book/Octavo/seaweed.jpg
+SHA1-Digest: ajoXhaTc7l5YRoq7D/Zy6Ea0SDQ=
+
+Name: com/sun/swingset3/codeview/SnippetParser.java
+SHA1-Digest: Z8aumge0zX0IvvsuRfZ9yLkbJa8=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$FileType.cla
+ ss
+SHA1-Digest: ZfQgu+anYPI3mTU+fIzf4otWfqI=
+
+Name: com/sun/swingset3/demos/spinner/SpinnerDemo.java
+SHA1-Digest: KJ7NfkUo9gB9F3CQUxepC+jLQx0=
+
+Name: com/sun/swingset3/demos/tree/resources/TreeDemo.properties
+SHA1-Digest: U9q09MOFyDzm7CtCiUEqP0ogcig=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/michaeleyes.jp
+ g
+SHA1-Digest: P2i1YdCVTbg2ipwjJc61sN2Tv+M=
+
+Name: com/sun/swingset3/demos/tabbedpane/resources/images/david.gif
+SHA1-Digest: Xn3zjR+s8pqEtvPaBL/ofTJ9qwA=
+
+Name: com/sun/swingset3/Demo.class
+SHA1-Digest: T8sogMZzCL6azgYDtwlzXEXF0vg=
+
+Name: com/sun/swingset3/codeview/SnippetNavigator.class
+SHA1-Digest: 970B8XPNxebf6SbD7GPryjTpjBA=
+
+Name: com/sun/swingset3/demos/scrollpane/resources/images/COPYRIGHT
+SHA1-Digest: aY7dK2a6L3QYJgJdHdE9mDwE+UY=
+
+Name: com/sun/swingset3/demos/colorchooser/BezierAnimationPanel$Bezier
+ Color.class
+SHA1-Digest: 3wFNIYkwPS2A/eG3VZPSMzndDjA=
+
+Name: com/sun/swingset3/codeview/SnippetNavigator$1.class
+SHA1-Digest: p+ha8J9odKHA3LeZ0/+yMnOEfG0=
+
+Name: com/sun/swingset3/demos/table/OscarCellRenderers.java
+SHA1-Digest: 7Lhd+FuUX/r0YJ8Og8XWzWWVuwc=
+
+Name: com/sun/swingset3/IntroPanel$SlidingLabel.class
+SHA1-Digest: jb8boFS/8FC5123mGo7HBp3AHtM=
+
+Name: META-INF/services/javax.swing.LookAndFeel
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/philipeyes.jpg
+SHA1-Digest: LP5Phr6O4sLxJJW0WIi1wbtx3/E=
+
+Name: com/sun/swingset3/demos/dialog/DialogDemo.class
+SHA1-Digest: 3XCPifPuguGjqcrr6dYaLfBe9dg=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator$4.class
+SHA1-Digest: 7IFudkpJ/Aa5HdIv3LqbB42+e9U=
+
+Name: META-INF/demolist
+SHA1-Digest: 94u7QvT1mc5nz+5ps6NKbaZP3aA=
+
+Name: com/sun/swingset3/demos/editorpane/book/seaweed.html
+SHA1-Digest: BxAK0rIll5EXqHnwfesrw/w8yC0=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator.class
+SHA1-Digest: FJ7e0KSSS3gD1EfXVc1PtKmUeR0=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/ComboBoxDemo.g
+ if
+SHA1-Digest: xWZEipEpS9d3vt+1qKdosRu6UCs=
+
+Name: com/sun/swingset3/demos/table/TableDemo.class
+SHA1-Digest: lNphcfbQxvfqW98mTwZ6rHZbJKs=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/b3r.gif
+SHA1-Digest: 5Gr+Zwcz2rHj1Pc4WUBrygYcJMw=
+
+Name: com/sun/swingset3/DemoPanel$LoadAnimationPanel.class
+SHA1-Digest: MkeRWiqr/187FUdFtp4gY3Y1d90=
+
+Name: com/sun/swingset3/utilities/CollapsiblePanel.class
+SHA1-Digest: KWLJRbHR5dR5/G0mQsXliS6oApk=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/brdn.gif
+SHA1-Digest: BA0Uc10LsInYnV1uqsncro0/Ljs=
+
+Name: com/sun/swingset3/codeview/resources/images/snippetglyph.png
+SHA1-Digest: sjogcoVbYnXtxppw0LaA5CnWgIo=
+
+Name: com/sun/swingset3/demos/colorchooser/resources/images/ColorChoos
+ erDemo.gif
+SHA1-Digest: qWKyN0p498hU6tDcDFmOusX+p1o=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/c.gif
+SHA1-Digest: TZ/ALGsT0AdzNaLL2QDA/6GNc7E=
+
+Name: com/sun/swingset3/utilities/HTMLPanel$1.class
+SHA1-Digest: qLKwqseJC9qGc2ROm6d9QLTZCPE=
+
+Name: com/sun/swingset3/demos/tooltip/resources/images/tooltip_backgro
+ und.png
+SHA1-Digest: Wh1NlqkJyNNgQspYK+dxOCKhmNw=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/hanseyes.jpg
+SHA1-Digest: gs1qy50IKXFapD7thr4HK2YNUnw=
+
+Name: com/sun/swingset3/codeview/SnippetNavigator$SnippetHighlightList
+ ener.class
+SHA1-Digest: 5wzb5QXVtoo4WoxoqgKn9PBdPDU=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/brentmouth.jpg
+SHA1-Digest: sTHjICa/0lXAVOtFuICGAYmOSqQ=
+
+Name: com/sun/swingset3/demos/JHyperlink$BrowseAction.class
+SHA1-Digest: PeKs/IgltdnEswZ1Jr/AVKsEM0E=
+
+Name: com/sun/swingset3/demos/spinner/JPaletteShower.java
+SHA1-Digest: uf5L7KKdSMLkX7xI0FTpV7cTLAg=
+
+Name: com/sun/swingset3/demos/spinner/SpinnerDemo$1.class
+SHA1-Digest: idCh5Izj0z8vHs2hYYKE6k13GuY=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/b3d.gif
+SHA1-Digest: AWpO7Sqe8Hqi26SeOIXJqubZnzE=
+
+Name: com/sun/swingset3/demos/editorpane/book/editorpane/header.jpg
+SHA1-Digest: mH4wfNju4RPMG6Od2JpI/6AT8+Y=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/jameseyes.jpg
+SHA1-Digest: IFmQUpb1a28hrRvLwL9bxWB/heg=
+
+Name: com/sun/swingset3/codeview/CodeViewer$SnippetActivator.class
+SHA1-Digest: M1HlfDWOY9aRfHClVHl5naJT9Ss=
+
+Name: com/sun/swingset3/demos/togglebutton/ToggleButtonDemo$2.class
+SHA1-Digest: JtSQu0SIOgDfQiWtJc465DBGJeU=
+
+Name: com/sun/swingset3/demos/tabbedpane/resources/images/ewan.gif
+SHA1-Digest: Txk+RBvcwdM3S+v5FuiAkIZFKmk=
+
+Name: com/sun/swingset3/demos/Stacker$1.class
+SHA1-Digest: IemXbpPKR8A7eLnFSS0wqeMMyJw=
+
+Name: com/sun/swingset3/demos/list/ListDemo$CompanyLogoListCellRendere
+ r.class
+SHA1-Digest: pB8etojy0e4UWTgrWVJjfw2uXME=
+
+Name: com/sun/swingset3/demos/editorpane/EditorPaneDemo.class
+SHA1-Digest: UuGmr1nrzr7b6GtCkyNZSErCIFk=
+
+Name: com/sun/swingset3/demos/gridbaglayout/resources/images/GridBagLa
+ youtDemo.gif
+SHA1-Digest: 7+TpHBzYnsb8AlstGMgEfqpzRmc=
+
+Name: com/sun/swingset3/demos/optionpane/OptionPaneDemo$2.class
+SHA1-Digest: d82fhWNBGcveQtlTSBcx99aUkRU=
+
+Name: com/sun/swingset3/demos/tree/TreeDemo.java
+SHA1-Digest: 3ftENpw2EX/OjJgDdT6FaIGvlgY=
+
+Name: com/sun/swingset3/demos/table/resources/images/nominee.png
+SHA1-Digest: vlixvevxDL67lX31wQk4UAtIT4g=
+
+Name: com/sun/swingset3/demos/spinner/SpinnerDemo.class
+SHA1-Digest: DOCbxe+c2k57e0DD6HzMi8nl1IE=
+
+Name: com/sun/swingset3/demos/list/resources/images/magenta.gif
+SHA1-Digest: C+unCXWiR5zMsQ/P8mEpO2NNf+8=
+
+Name: com/sun/swingset3/demos/table/OscarDataParser.class
+SHA1-Digest: NvVZ541CSvPQI+hlPl3b8jX0C4Y=
+
+Name: com/sun/swingset3/demos/internalframe/resources/images/soccer_ba
+ ll_small.png
+SHA1-Digest: NNxg7bl4ANph/ucz+HUhoEc8XWw=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/b2.gif
+SHA1-Digest: 9iUbxvrzrrLaK8fx/iYzTo6yGiM=
+
+Name: com/sun/swingset3/demos/table/resources/oscars.xml
+SHA1-Digest: sL0S/1Wd/xJU+KSaHXSBFEhDoLA=
+
+Name: com/sun/swingset3/demos/JGridPanel.class
+SHA1-Digest: PTYmPVTZsrpoCp8S0v6z43Yfplc=
+
+Name: com/sun/swingset3/demos/colorchooser/BezierAnimationPanel.java
+SHA1-Digest: KCY+eJIHoqrI9kusN4RcOy2EDv0=
+
+Name: com/sun/swingset3/demos/internalframe/InternalFrameDemo.java
+SHA1-Digest: 1Bwso/8tr4xir3R06hVBY1iz2ek=
+
+Name: com/sun/swingset3/demos/button/ButtonDemo.class
+SHA1-Digest: U0KRmz+ZZKsHzk3xgMAAISVzIj8=
+
+Name: com/sun/swingset3/demos/editorpane/book/Octavo/bug2.jpg
+SHA1-Digest: 0sHQdlUGE+U0sHqclN81SyqB2xU=
+
+Name: com/sun/swingset3/demos/button/resources/images/earth_night.gif
+SHA1-Digest: PLcjmrasuaXELh4SvaBJJ/gxSo8=
+
+Name: com/sun/swingset3/demos/list/ListDemo$GeneratedListModel.class
+SHA1-Digest: tZJwFjAG3conKyCKQ3G2Or8YJr8=
+
+Name: com/sun/swingset3/demos/spinner/PaletteChooser.java
+SHA1-Digest: 0nUPLU8PS7Z0oYVf9R7wyK9lSfM=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/b3.gif
+SHA1-Digest: mSeQjy9sOO5DudX72PCx0NND91s=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$10.class
+SHA1-Digest: 8co/sYX8AzCkWpXRLfHA51/By7s=
+
+Name: com/sun/swingset3/demos/tabbedpane/TabbedPaneDemo.java
+SHA1-Digest: DHEfUOYJAVDovSOr+bQr8mFuOyc=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/b1p.gif
+SHA1-Digest: jsLCzAim4cVxjjAWgwG6dzwKKYs=
+
+Name: com/sun/swingset3/utilities/AnimatingSplitPane.class
+SHA1-Digest: tGhx+kmxpa1X118v9+qynGZJk3Y=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$6.class
+SHA1-Digest: d1lpcrT5cF1mauMwxxvOTsXyuFg=
+
+Name: com/sun/swingset3/demos/window/resources/images/WindowDemo.gif
+SHA1-Digest: pg0TxcWG9EtTRvzL+WgQ2wuN40w=
+
+Name: com/sun/swingset3/demos/table/IMDBLink.java
+SHA1-Digest: nHvxprr9fXT3o62N1lLdSoW/8MQ=
+
+Name: com/sun/swingset3/demos/tabbedpane/resources/images/ewan.jpg
+SHA1-Digest: x1RKTDYUK81pnx+rwkK17YLPP2Y=
+
+Name: com/sun/swingset3/demos/table/TableDemo$IMDBLinkAction.class
+SHA1-Digest: wyHzOewtx2toRqEMz+mbH+Tq2Vg=
+
+Name: com/sun/swingset3/demos/scrollpane/ScrollPaneDemo$ImageScroller.
+ class
+SHA1-Digest: 7wAQbLtWyyDOytDAw7Ixv2cF9Z8=
+
+Name: com/sun/swingset3/DemoProperties.java
+SHA1-Digest: SfP3RZzHfHezHpr+n3rMaeEoppc=
+
+Name: com/sun/swingset3/demos/window/WindowDemo.class
+SHA1-Digest: g1k9bImNYNmvqB0T6erz7+exUYY=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/georgeseyes.jp
+ g
+SHA1-Digest: KDxUSbAhu6cvbltPSuKSwjW0NBM=
+
+Name: com/sun/swingset3/SwingSet3$ViewCodeSnippetAction.class
+SHA1-Digest: nPP5OhnsfcKk975aiy50CXKWK1I=
+
+Name: com/sun/swingset3/demos/spinner/MandelbrotControl$3.class
+SHA1-Digest: VimuLK8LiIUypSIrcut1d0SJS8U=
+
+Name: com/sun/swingset3/demos/Stacker.java
+SHA1-Digest: neXmudAimyoBDgW3w1saCf8hZjA=
+
+Name: com/sun/swingset3/demos/spinner/JSpinnerPanel.class
+SHA1-Digest: 7rv1wP9J4+AM07pI2byHTB+VPa4=
+
+Name: com/sun/swingset3/demos/editorpane/book/bug.html
+SHA1-Digest: gao8DR96bL9hIDi2lO8+JzVVDk8=
+
+Name: com/sun/swingset3/codeview/resources/CodeViewer.properties
+SHA1-Digest: Zba5SDIPsfQg7rReiTKVDZdik+A=
+
+Name: com/sun/swingset3/utilities/DefaultsDisplay$ColorIcon.class
+SHA1-Digest: jX75I47JhDRpV5ZUd+7YF3Gel4c=
+
+Name: com/sun/swingset3/demos/scrollpane/resources/images/upperright.j
+ pg
+SHA1-Digest: Mozfrt1Ob/oVoEJiJdcxEc15iio=
+
+Name: com/sun/swingset3/demos/togglebutton/LayoutControlPanel$LabelAli
+ gnmentListener.class
+SHA1-Digest: KiDeTSn7aTxdiIau+gQ4gyeNM0c=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/b3p.gif
+SHA1-Digest: Gn/VrM0zJqkGDVXYE6Cbj68Fl3s=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/howardmouth.jp
+ g
+SHA1-Digest: VeDs9gWhwikgSkn5OsBecf8ZxHM=
+
+Name: com/sun/swingset3/demos/optionpane/resources/OptionPaneDemo.prop
+ erties
+SHA1-Digest: tQvqyu7n8qjtio5mEEV5IJqExJM=
+
+Name: com/sun/swingset3/demos/frame/resources/images/FrameDemo.gif
+SHA1-Digest: rWRogCvYVaGe1a44CdGFsJKgit0=
+
+Name: com/sun/swingset3/utilities/DefaultsDisplay$RowRenderer.class
+SHA1-Digest: 1URCkJRK00s9VrhIuFZrxZuPC4w=
+
+Name: com/sun/swingset3/demos/internalframe/resources/images/soccer_ba
+ ll.png
+SHA1-Digest: oKv/2MGv3+vnT56bXVZFcmJquAg=
+
+Name: com/sun/swingset3/demos/togglebutton/ToggleButtonDemo.java
+SHA1-Digest: a4k21GifskQP6UlOAwugGpYqyK0=
+
+Name: com/sun/swingset3/demos/textfield/JHistoryTextField$2.class
+SHA1-Digest: NeA+HH1zm0EobzXZ2RnpCL0vGF0=
+
+Name: com/sun/swingset3/demos/spinner/Palette.class
+SHA1-Digest: +QWnJFILK+vB+kUCO8WxIJixdDg=
+
+Name: com/sun/swingset3/IntroPanel.class
+SHA1-Digest: F/Wmb71+nGpXgjwujehWFrKalP4=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$FilterItem.c
+ lass
+SHA1-Digest: VpbMZ4fAKYiJCDv8eSIQuUPW5LA=
+
+Name: com/sun/swingset3/demos/editorpane/book/preface.html
+SHA1-Digest: 0ryqi9XIqegIyyqd7cIOkBwfFpk=
+
+Name: com/sun/swingset3/demos/table/OscarTableModel.class
+SHA1-Digest: h9WAX69lopPGWuaFn7c6O/TbJDY=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/cdn.gif
+SHA1-Digest: RKG17hDqMxJPvrF6s1AuFE0vXDo=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/b2p.gif
+SHA1-Digest: sYLov1E1vxyAUMSZWfJUFxYKaU8=
+
+Name: com/sun/swingset3/demos/textfield/JHistoryTextField.class
+SHA1-Digest: +buVFGW2pkb+tkWigDlx5a2D0IU=
+
+Name: com/sun/swingset3/utilities/RoundedPanel.class
+SHA1-Digest: bZMl7N/48nZUKw+PqNftZimTM6o=
+
+Name: com/sun/swingset3/demos/togglebutton/ToggleButtonDemo$1.class
+SHA1-Digest: 1kXAue9WTrOwHA76843v43pct+Y=
+
+Name: com/sun/swingset3/demos/tabbedpane/TabbedPaneDemo$1.class
+SHA1-Digest: P2u/1PMxhbSDXilTfqFbc3BKs+o=
+
+Name: com/sun/swingset3/codeview/SnippetMap.class
+SHA1-Digest: 1MePK8T6r74AJvILz9tKkEYWdgI=
+
+Name: com/sun/swingset3/utilities/RoundedBorder.java
+SHA1-Digest: CkQavEspk3r9Sr++EzQ55NY7+/g=
+
+Name: com/sun/swingset3/demos/DemoUtilities.class
+SHA1-Digest: 0pdrzri1zEyj7e/sA/iTRwUjK70=
+
+Name: com/sun/swingset3/utilities/RoundedTitleBorder.java
+SHA1-Digest: DYaUbPk3q51AjxT3vy9PP+ghkJQ=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$5.class
+SHA1-Digest: rorLcjTX4RvnDVhZjRhEdurNiC4=
+
+Name: com/sun/swingset3/demos/table/OscarCandidate.class
+SHA1-Digest: ofJa8lTgnuIxyykYiizguD1KiS8=
+
+Name: com/sun/swingset3/demos/JGridPanel.java
+SHA1-Digest: 8zP7/5u1V9k/fcOBTDB3qXMoaUA=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/bl.gif
+SHA1-Digest: YNZCKRN326/DRs3Y/EVLAOiuvns=
+
+Name: com/sun/swingset3/demos/progressbar/ProgressBarDemo.class
+SHA1-Digest: vOWe2JfF0wNOJDAuWbs6imhpkVM=
+
+Name: com/sun/swingset3/utilities/CollapsiblePanel$1.class
+SHA1-Digest: DNJUjfYG2xJK2BuEc3EjsfNl5y0=
+
+Name: com/sun/swingset3/demos/gridbaglayout/resources/GridBagLayoutDem
+ o.properties
+SHA1-Digest: 2a2LoA27pyYq7Te0RY22nkX7iJg=
+
+Name: com/sun/swingset3/resources/images/home_text.png
+SHA1-Digest: BLTovb41F68HUG/GYru1MCsx3O4=
+
+Name: com/sun/swingset3/demos/progressbar/ProgressBarDemo.java
+SHA1-Digest: rOmeRCbRhMQ1V/uAd58ggqv/Iwo=
+
+Name: com/sun/swingset3/demos/JHyperlink.java
+SHA1-Digest: /FfFCbYuIPs/lS8om814RDhX1fg=
+
+Name: com/sun/swingset3/demos/tabbedpane/resources/images/stephen.gif
+SHA1-Digest: dVLUjDbQW2F5WWTnzeFoapqv9VE=
+
+Name: com/sun/swingset3/demos/editorpane/book/index.html
+SHA1-Digest: pWSVVSONaCAqcUu0mVnkgvKqKeE=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/brenteyes.jpg
+SHA1-Digest: vOBNwcIodAUj+wk3uAuauRpgUhE=
+
+Name: com/sun/swingset3/demos/list/ListDemo.class
+SHA1-Digest: 7qC43I/MQvSdBHCa/sZLZgvmHqg=
+
+Name: com/sun/swingset3/DemoPanel.class
+SHA1-Digest: rgTUJwE2xDtaBzQNTrf6U/qZGXs=
+
+Name: com/sun/swingset3/demos/togglebutton/LayoutControlPanel.class
+SHA1-Digest: jvnW7XoGq87Pc2I66VjoCaNrHoU=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/jeffmouth.jpg
+SHA1-Digest: psFhPrQiB961XVamMuCa9uUBeqc=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/brenthair.jpg
+SHA1-Digest: j+QVhg4WJIHZkEpuOe5N527VWJ4=
+
+Name: com/sun/swingset3/codeview/CodeViewer$LastSnippetAction.class
+SHA1-Digest: 1BbOMrPT/nLPFp1i86AoDbUvDww=
+
+Name: com/sun/swingset3/demos/Stacker$2.class
+SHA1-Digest: pqYAuK6SbUxZC1btAub0IAkVbOk=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$11.class
+SHA1-Digest: Zg1QvC9tcgje+y5RtR8HJYWDCXQ=
+
+Name: com/sun/swingset3/demos/tabbedpane/resources/TabbedPaneDemo.prop
+ erties
+SHA1-Digest: j50HSblycCM1s9wAqhpHHnaN1rk=
+
+Name: com/sun/swingset3/demos/table/OscarCellRenderers.class
+SHA1-Digest: syhBbBfr0TBY1dUrm9ZAbepdgdE=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/bldn.gif
+SHA1-Digest: r/hrjmxqu9wp2Zj115ccgaoPivk=
+
+Name: com/sun/swingset3/utilities/DefaultsDisplay$ChangeLookAndFeelAct
+ ion.class
+SHA1-Digest: 4nZ4L3miM4OQPjuHpsAFDJpWgSI=
+
+Name: com/sun/swingset3/utilities/RoundedTitleBorder.class
+SHA1-Digest: 4Zxzjy3zs6dKKjwyniVc8h20YZE=
+
+Name: com/sun/swingset3/utilities/HTMLPanel$ComponentView.class
+SHA1-Digest: 45ThR89RrxDywPk6Np69bSCTuUw=
+
+Name: com/sun/swingset3/demos/internalframe/InternalFrameDemo$CreateFr
+ ameAction.class
+SHA1-Digest: 2lQtE7E174+BFIC3zdle0cijdR4=
+
+Name: com/sun/swingset3/demos/splitpane/SplitPaneDemo$1.class
+SHA1-Digest: Pg+jA7McoSF+9JFy0j7iiXi4GBY=
+
+Name: com/sun/swingset3/DemoSelectorPanel$DemoActionListener.class
+SHA1-Digest: RPjseLLtSlpGfWI1iL+z8fD7NdI=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/jamesmouth.jpg
+SHA1-Digest: Ig3F0GCpdBAiRCtImn8yRigjb4k=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/scotteyes.jpg
+SHA1-Digest: Q9hol7KiKpeTyx1Ef2nUK4PA4gw=
+
+Name: com/sun/swingset3/demos/colorchooser/resources/ColorChooserDemo.
+ properties
+SHA1-Digest: PD/folIByM+jnof7Y6/WPBuUsD4=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/ml.gif
+SHA1-Digest: V9r0Dv+jMRAaDIN4ud/hfmTFRAo=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/tm.gif
+SHA1-Digest: d8URSLV6h+AtPDG9PbWslsXgCeg=
+
+Name: com/sun/swingset3/demos/list/resources/images/yellow.gif
+SHA1-Digest: m7m2Y1BqDi7W587Q6vadmU+Er90=
+
+Name: com/sun/swingset3/codeview/SnippetNavigator.java
+SHA1-Digest: mxzFgeB6hUyl8NW+5yTvJk6HCZs=
+
+Name: com/sun/swingset3/demos/frame/resources/FrameDemo.html
+SHA1-Digest: kcSuZO5QCioAP/TYJLzSHjaoVTg=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/scottmouth.jpg
+SHA1-Digest: TjKHDyF3DEb3EySgJZb0wkyfb+E=
+
+Name: com/sun/swingset3/demos/editorpane/book/Octavo/book.jpg
+SHA1-Digest: Cl3/Yi5WDkHxGRzGAV/WsfHr4Gw=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/larahair.jpg
+SHA1-Digest: EvQLO6tz1kPL0BMGRnYGfvYAiZk=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/b1d.gif
+SHA1-Digest: WiNuMsm4oOhfh6Jk8jL7LavCLXM=
+
+Name: com/sun/swingset3/demos/table/OscarCellRenderers$MovieRenderer.c
+ lass
+SHA1-Digest: yc1aZN9S0aXlkRZxY5fvsxKcw5Q=
+
+Name: com/sun/swingset3/demos/optionpane/resources/images/OptionPaneDe
+ mo.gif
+SHA1-Digest: W9BLrQjZWwlay/Szx7Z23qxLBfQ=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/b2d.gif
+SHA1-Digest: AtE4MS7W+3J44e7wcAgUvvsWUfQ=
+
+Name: com/sun/swingset3/demos/tabbedpane/resources/images/miranda.jpg
+SHA1-Digest: b/kgojRPAgv5eThZgfOQQd236eg=
+
+Name: com/sun/swingset3/demos/textfield/resources/TextFieldDemo.proper
+ ties
+SHA1-Digest: fSr7kHKYqLi77LspzUxgd9dEB50=
+
+Name: com/sun/swingset3/demos/colorchooser/BezierAnimationPanel$1.clas
+ s
+SHA1-Digest: 2DLZYiHch2DPArK0oSNTzielMqk=
+
+Name: com/sun/swingset3/demos/combobox/ComboBoxDemo.java
+SHA1-Digest: oBxWV6N8TeG7p8fLsA8qlPOxfq0=
+
+Name: com/sun/swingset3/codeview/SnippetHighlighter$SafeDamager.class
+SHA1-Digest: 7hxb7lEx4Bs3qduijhcB2VrA498=
+
+Name: com/sun/swingset3/codeview/CodeViewer.java
+SHA1-Digest: WriNJu4BpGT5zCK+pyJywWQEDKQ=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/b1r.gif
+SHA1-Digest: p58g52hXbcCJeFHtJBEwPtLfdDo=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/jonmouth.jpg
+SHA1-Digest: ng4z+N8wQWhojSw79j9NuCYJ/Zc=
+
+Name: com/sun/swingset3/demos/progressbar/ProgressBarDemo$MyTextArea.c
+ lass
+SHA1-Digest: R+FXMxXXpiFQhzDcumCMH74IqNk=
+
+Name: com/sun/swingset3/demos/scrollpane/resources/images/lowerleft.jp
+ g
+SHA1-Digest: VVqqB1Wi8KdHrwR3VJWs4Xz2+38=
+
+Name: com/sun/swingset3/demos/button/resources/images/blogs.png
+SHA1-Digest: RErpFOhMWKF/JKt7dFmMOdSKX0s=
+
+Name: com/sun/swingset3/demos/scrollpane/resources/images/colheader.jp
+ g
+SHA1-Digest: Ctmp27wqK4G3rwovIXr+KIrcitI=
+
+Name: com/sun/swingset3/demos/list/ListDemo$4.class
+SHA1-Digest: clKtPjw3qt2v+zdpLMJ5FRH6Nvc=
+
+Name: com/sun/swingset3/utilities/HTMLPanel$ComponentFactory.class
+SHA1-Digest: 2dFvsxz+npFc6oWlBWOykV4JVwk=
+
+Name: com/sun/swingset3/demos/JGridPanel$ComponentType.class
+SHA1-Digest: 5P5O3rFJJXsCrn/T/M8xUoSNSwU=
+
+Name: com/sun/swingset3/demos/filechooser/resources/images/flipvert.pn
+ g
+SHA1-Digest: USKWfN21EkPBSyu0oIBygpdBwc8=
+
+Name: com/sun/swingset3/IntroPanel$1.class
+SHA1-Digest: wtTst8dozsMukp9GiL97QxvfFcg=
+
+Name: com/sun/swingset3/demos/editorpane/EditorPaneDemo$1.class
+SHA1-Digest: EEssLoZFXKECDNALUsNeYPmHOek=
+
+Name: com/sun/swingset3/demos/dialog/DialogDemo.java
+SHA1-Digest: aSFf8M4Kp+i/Po20zT5+sipBxjY=
+
+Name: com/sun/swingset3/SwingSet3$SwingSetPropertyListener.class
+SHA1-Digest: zfM/limcXjHJaLxTS6jqjf1aQnU=
+
+Name: com/sun/swingset3/demos/progressbar/ProgressBarDemo$3.class
+SHA1-Digest: FVH6J/c0EPtgw4Ay8OZB+FB/8KI=
+
+Name: com/sun/swingset3/utilities/Utilities.class
+SHA1-Digest: X7J+LNNM6lHG+4cGHXwlTOox9eU=
+
+Name: com/sun/swingset3/demos/scrollpane/resources/images/rowheader.jp
+ g
+SHA1-Digest: Rs38YHIFiHtZiTNRFbFfIY7Sel8=
+
+Name: com/sun/swingset3/demos/dialog/resources/images/DialogDemo.gif
+SHA1-Digest: aJZ6l8uzz3ErjrUzc/J1Yp/GLfc=
+
+Name: com/sun/swingset3/demos/slider/resources/images/SliderDemo.gif
+SHA1-Digest: IRMUsHrkWfRPHsMtmMVTtvXDCvU=
+
+Name: com/sun/swingset3/utilities/ArrowIcon.class
+SHA1-Digest: Ld84kv/C/ztVYIUP19DpRk2QO8A=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/michaelmouth.j
+ pg
+SHA1-Digest: sgoHnzhtTIE9DeqjVvacWJ1p2pw=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator.java
+SHA1-Digest: 05Ye1Tyg70ckUy7s/o0Ia4wMRmM=
+
+Name: com/sun/swingset3/DemoPanel$FadeOut.class
+SHA1-Digest: rLmFwfnE/Ca0aq15WO8lj6qhOHI=
+
+Name: com/sun/swingset3/demos/progressbar/ProgressBarDemo$4.class
+SHA1-Digest: S3cngePQJFitq4BxFwO4w6b6ZnM=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator$CharButton$1.cl
+ ass
+SHA1-Digest: YMRLkGxhrahXDNHUZuxUoHuRTNg=
+
+Name: com/sun/swingset3/codeview/SnippetMap$FileSnippets.class
+SHA1-Digest: U5EAbrx245NuAmlf2jINqvxN9Fo=
+
+Name: com/sun/swingset3/codeview/SnippetHighlighter$1.class
+SHA1-Digest: zNbXvLOmNMUOBLt7eFK4jzDDCfk=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/rb.gif
+SHA1-Digest: O9/E2a5zsFvctNi6gMdyy9RhwrA=
+
+Name: com/sun/swingset3/DemoSelectorPanel$1.class
+SHA1-Digest: 2j6XHaisgcd4VzWZh3dYeu4hRyA=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/michaelhair.jp
+ g
+SHA1-Digest: lIvs6UebkfBqNIQ6EhATXaP6EIc=
+
+Name: com/sun/swingset3/demos/table/Link.java
+SHA1-Digest: ZJIHc8ambJhlVUPzn0JWSFvj8lE=
+
+Name: com/sun/swingset3/demos/table/HyperlinkCellRenderer$HyperlinkMou
+ seListener.class
+SHA1-Digest: bzcGbcFHEfvsUiwfz0Zi4nxaGis=
+
+Name: com/sun/swingset3/utilities/RoundedBorder.class
+SHA1-Digest: Zr+xOJX3+b+XfpWH0KbLE4AUZ64=
+
+Name: com/sun/swingset3/AboutBox.class
+SHA1-Digest: EbJ8u5k9DWfp/MJ90IASBB4OmiE=
+
+Name: com/sun/swingset3/demos/scrollpane/resources/images/upperleft.jp
+ g
+SHA1-Digest: 3TqeMp97U1we1XMeX5Sk9qjfTVo=
+
+Name: com/sun/swingset3/demos/splitpane/resources/SplitPaneDemo.proper
+ ties
+SHA1-Digest: 6chic4/CgWcwNlFlKqug4WOGcXM=
+
+Name: com/sun/swingset3/utilities/DefaultsDisplay.class
+SHA1-Digest: lxj8+7AZKd115DfaY2+wWBnNmj8=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator$OperatorButton.
+ class
+SHA1-Digest: sypGk5YZCP1JkKaix9VrLfJMvQI=
+
+Name: com/sun/swingset3/demos/table/HyperlinkCellRenderer.java
+SHA1-Digest: Z9rCbsy9kbBn9dfCtaC6mY58CHE=
+
+Name: com/sun/swingset3/demos/table/TableDemo.java
+SHA1-Digest: LJH8HstWY0BXqTtZq13BWb6Gaig=
+
+Name: com/sun/swingset3/demos/table/TableDemo$5.class
+SHA1-Digest: 6z6CwWRaNwIIqcW7z1km7CaKWG0=
+
+Name: com/sun/swingset3/demos/tabbedpane/TabbedPaneDemo$HeadSpin.class
+SHA1-Digest: dgglAqrdQiEDNxCaKrwWp8X8rz8=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/mrdn.gif
+SHA1-Digest: w4mOqOolnVHWAXD1ATWIShOZoIc=
+
+Name: com/sun/swingset3/demos/filechooser/resources/images/fliphor.png
+SHA1-Digest: rDiB9xSbhxQGbCQ8atJMioLmUiE=
+
+Name: com/sun/swingset3/demos/tree/TreeDemo.class
+SHA1-Digest: nYlX9/UQ+5AKBCwI4jkwNW+DdJY=
+
+Name: com/sun/swingset3/demos/table/TableDemo$3.class
+SHA1-Digest: Vqx27jglpvY5cQp2Lr9fwhDIgik=
+
+Name: com/sun/swingset3/SwingSet3$SourceVisibilityChangeListener.class
+SHA1-Digest: W1NLM+vjjcDeXZmKkC6JEso5A+k=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$4.class
+SHA1-Digest: ljZPcNREAoaeviLDmqueg5EwmFY=
+
+Name: com/sun/swingset3/demos/combobox/resources/images/lisahair.jpg
+SHA1-Digest: tujNZ+VywwlERqzeo07jqCZSYCM=
+
+Name: com/sun/swingset3/demos/gridbaglayout/Calculator$1.class
+SHA1-Digest: RO6LcfIlNbLVLwjhR8XPCrx/me0=
+
+Name: com/sun/swingset3/demos/togglebutton/resources/images/mr.gif
+SHA1-Digest: eLDve/z0hgk6OM5Ms5Vly5P0CCE=
+
+Name: com/sun/swingset3/demos/editorpane/book/Octavo/king.jpg
+SHA1-Digest: OdXINzcRzoU1pu/XJ+se4Qhoe+8=
+
+Name: com/sun/swingset3/demos/optionpane/resources/images/bottle.gif
+SHA1-Digest: vjsv3NjfV8kk13W9di0upVC5Glo=
+
+Name: com/sun/swingset3/demos/table/HyperlinkCellRenderer$1.class
+SHA1-Digest: Cbc317h1hr+uhdpiUQCFz+8um/4=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$12.class
+SHA1-Digest: mdmuqx1DDjgn2XMje/x2nX9XWOs=
+
+Name: com/sun/swingset3/codeview/SnippetParser.class
+SHA1-Digest: b15uasjjbMB66kS+zVbHlJVqSAw=
+
+Name: com/sun/swingset3/SwingSet3$DemoPropertyChangeListener.class
+SHA1-Digest: ScDKHZZJHLIvXr3YVuG8R6kXe9M=
+
+Name: com/sun/swingset3/demos/filechooser/FileChooserDemo$2.class
+SHA1-Digest: emjNFlD2SQGLbk/Osnj73ADANwA=
+
+Name: com/sun/swingset3/demos/spinner/resources/images/SpinnerDemo.gif
+SHA1-Digest: I8TaTfb1urWycJh+mBlfU/ucW0Y=
+
+Name: com/sun/swingset3/demos/tabbedpane/resources/images/brooke.gif
+SHA1-Digest: CIpIu0L9J7LhQFLHM5r2/dyXM1Y=
+
